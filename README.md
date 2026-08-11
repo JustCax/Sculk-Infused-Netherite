@@ -6,6 +6,12 @@
 
 Expand your progression into the Deep Dark with Sculk-Infused Netherite equipment, custom enchantments, powerful Warden-themed utilities, and the Sculk Workbench.
 
+## Official Downloads
+
+- [GitHub Releases](https://github.com/JustCax/Sculk-Infused-Netherite/releases)
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sculk-infused-netherite)
+- Modrinth — under review
+
 > **Unofficial addon project.**  
 > Sculk-Infused Netherite is not affiliated with or endorsed by Mojang Studios, Microsoft, or the creators of the mods it integrates with.
 
