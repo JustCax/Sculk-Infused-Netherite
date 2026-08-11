@@ -95,6 +95,12 @@ For questions or other inquiries:
 
 For bug reports, please prefer the [GitHub Issue Tracker](https://github.com/JustCax/Sculk-Infused-Netherite/issues).
 
+## Modpack Policy
+
+Unmodified official releases of Sculk-Infused Netherite may be included in modpacks, provided that the mod is obtained from an official distribution source.
+
+Reuploads, modified distributions, derivative releases, and reuse of project assets require explicit permission.
+
 ## License
 
 **All Rights Reserved.**
