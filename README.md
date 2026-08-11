@@ -78,9 +78,9 @@ It is used to upgrade Advanced Netherite Diamond equipment into Sculk-Infused Ne
 
 Created by **JustCax** and **BlackCatGirl_08**.
 
-All textures are original assets created specifically for this project.
+**Texture Artist:** BlackCatGirl_08
 
-**Textures by BlackCatGirl_08.**
+All textures are original assets created specifically for this project.
 
 Made with MCreator.
 
