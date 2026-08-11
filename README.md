@@ -86,6 +86,15 @@ Made with MCreator.
 
 See [CREDITS.md](CREDITS.md) for additional project and dependency credits.
 
+## Contact
+
+For questions or other inquiries:
+
+- **JustCax** — Discord: `caxtmt`
+- **BlackCatGirl_08** — Discord: `blackcatgirl_08`
+
+For bug reports, please prefer the [GitHub Issue Tracker](https://github.com/JustCax/Sculk-Infused-Netherite/issues).
+
 ## License
 
 **All Rights Reserved.**
