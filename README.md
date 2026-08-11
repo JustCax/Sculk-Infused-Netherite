@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Sculk-Infused Netherite logo" width="256">
+</p>
+
 # Sculk-Infused Netherite
 
 Expand your progression into the Deep Dark with Sculk-Infused Netherite equipment, custom enchantments, powerful Warden-themed utilities, and the Sculk Workbench.
