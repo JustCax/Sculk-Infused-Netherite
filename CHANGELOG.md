@@ -4,10 +4,11 @@
 
 ### Changed
 
-- Standardized Sculk-Infused Diamond Netherite equipment names
-- Corrected BlackCatGirl_08 capitalization in the mod metadata
-- Corrected capitalization in several advancement titles
-- Removed obsolete and malformed localization entries
+Corrected project metadata
+
+Improved English localization consistency
+
+Updated credits and project information
 
 ### Notes
 
