@@ -4,11 +4,11 @@
 
 ### Changed
 
-Corrected project metadata
+- Corrected project metadata
 
-Improved English localization consistency
+- Improved English localization consistency
 
-Updated credits and project information
+- Updated credits and project information
 
 ### Notes
 
