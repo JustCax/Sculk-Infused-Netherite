@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.1 — Metadata and Localization Fixes
+
+### Changed
+
+- Standardized Sculk-Infused Diamond Netherite equipment names
+- Corrected BlackCatGirl_08 capitalization in the mod metadata
+- Corrected capitalization in several advancement titles
+- Removed obsolete and malformed localization entries
+
+### Notes
+
+- No gameplay or balance changes
+
 ## 1.0.0 — Initial Release
 
 ### Added

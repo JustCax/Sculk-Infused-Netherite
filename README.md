@@ -54,7 +54,7 @@ Upgrade Advanced Netherite Diamond equipment using Deep Dark resources in the cu
 - Just Enough Items (JEI)
 - Enchanting Infuser
 
-## Tested environment for 1.0.0
+## Tested environment
 
 The 1.0.0 release candidate was tested with:
 
@@ -66,7 +66,9 @@ The 1.0.0 release candidate was tested with:
 - JEI 19.21.0.247
 - Enchanting Infuser 21.1.4
 
-Later versions may also work, but these are the versions used for the final 1.0.0 regression test.
+These are the versions used for the final 1.0.0 regression test. Version 1.0.1 contains metadata and localization fixes only; its gameplay code is unchanged from 1.0.0.
+
+Later dependency versions may also work.
 
 ## Sculk Workbench
 
