@@ -56,7 +56,7 @@ Upgrade Advanced Netherite Diamond equipment using Deep Dark resources in the cu
 
 ## Tested environment
 
-The 1.0.0 release candidate was tested with:
+The 1.0.1 release candidate was tested with:
 
 - Minecraft 1.21.1
 - NeoForge 21.1.232
