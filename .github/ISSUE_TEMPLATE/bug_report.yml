@@ -1,0 +1,60 @@
+name: Bug report
+description: Report a problem with the mod
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill in as much detail as you can — it makes fixing issues much faster.
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod version
+      description: Which version of Sculk-Infused Netherite are you using?
+      placeholder: "e.g. 1.1.0"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Minecraft and NeoForge version
+      placeholder: "e.g. Minecraft 1.21.1, NeoForge 21.1.235"
+    validations:
+      required: true
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods installed
+      description: List the other mods you use — especially Advanced Netherite, Deeper and Darker, Accessories, JEI or Enchanting Infuser. For a full modpack, uploading latest.log is enough.
+      placeholder: "e.g. Advanced Netherite 2.3.1, Deeper and Darker 1.4.1, Accessories 1.1.0-beta.53+1.21.1"
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or crash report
+      description: Paste the relevant part of latest.log or the crash report. If it is long, use https://mclo.gs/ and link it here.
+      render: text
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I am using the latest version of the mod
+        - label: I searched the existing issues and this problem has not been reported yet
