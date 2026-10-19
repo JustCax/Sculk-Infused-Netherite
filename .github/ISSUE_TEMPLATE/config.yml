@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Official wiki — abilities, recipes and mechanics
+    url: https://sculkinfusednetherite.pages.dev/wiki/
+    about: All 135 abilities, recipes and enchantment mechanics are documented here — worth checking before opening an issue.
+  - name: Questions and ideas — Discussions
+    url: https://github.com/JustCax/Sculk-Infused-Netherite/discussions
+    about: For general questions, suggestions and showing off your builds, please use Discussions instead of issues.
+  - name: Latest downloads — CurseForge
+    url: https://www.curseforge.com/minecraft/mc-mods/sculk-infused-netherite
+    about: The current release is always available on CurseForge.
